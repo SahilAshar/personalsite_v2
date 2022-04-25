@@ -1,4 +1,5 @@
-# build output
+# build and output
+deploy.sh
 dist/
 .output/
 
